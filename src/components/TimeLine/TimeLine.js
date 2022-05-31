@@ -12,7 +12,7 @@ import {
     CarouselMobileScrollNode
 } from './TimeLineStyles';
 import {Section, SectionText, SectionTitle} from '../../styles/GlobalComponents';
-import {TimeLineData} from '../../constants/constants';
+import {TimeLineData} from '../../utils/utils';
 
 const Timeline = () => {
     const [activeItem, setActiveItem] = useState(0);
@@ -63,8 +63,10 @@ const Timeline = () => {
                     mismo conmigo.
                 </p>
                 <p>
-                    Si crees que podemos encajar, tienes mis redes <a href='#nav'>arriba</a> a la derecha. Si quieres
-                    contactar directamente conmigo, aquí <a href='#above'>abajo</a>, también a la derecha, tienes mis
+                    Si crees que podemos encajar, tienes mis redes <a style={{color: "white", fontWeight: 'bold'}}
+                                                                      href='#nav'>arriba</a> a la derecha. Si quieres
+                    contactar directamente conmigo, aquí <a style={{color: "white", fontWeight: 'bold'}}
+                                                            href='#above'>abajo</a>, también a la derecha, tienes mis
                     datos de contacto.
                 </p>
             </SectionText>

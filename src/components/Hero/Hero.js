@@ -19,7 +19,8 @@ const Hero = () => (
                     He creado este sitio web para que nos podamos conocer un poco más en profundidad.
                 </p>
             </SectionText>
-            <Button>¿Quieres saber más?
+            {/*TODO: Add cv download*/}
+            <Button><a style={{color: "white"}} href="cv.pdf" download target="_blank">¿Quieres saber más?</a>
             </Button>
         </LeftSection>
     </Section>

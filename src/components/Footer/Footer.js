@@ -14,7 +14,7 @@ import {
     SocialIconsContainer
 } from './FooterStyles';
 
-import {presentYear} from '../../constants/constants';
+import {presentYear} from '../../utils/utils';
 
 const Footer = () => {
     return (
@@ -30,10 +30,10 @@ const Footer = () => {
                     </Slogan>
                 </CompanyContainer>
                 <SocialContainer>
-                    <a href='tel:645826048'>
+                    <a  style={{color: "white"}} href='tel:645826048'>
                         <AiOutlinePhone size={30}/>
                     </a>
-                    <a href='mailto:martipuigmartin@gmail.com'>
+                    <a  style={{color: "white"}} href='mailto:martipuigmartin@gmail.com'>
                         <AiOutlineMail size={30}/>
                     </a>
                 </SocialContainer>

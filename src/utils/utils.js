@@ -1,15 +1,3 @@
-export const projectImage = [
-    {
-        image: "/images/portfolio.svg"
-    },
-    {
-        image: '/images/wallet.svg',
-    },
-    {
-        image: '/images/ball.svg',
-    },
-];
-
 export const TimeLineData = [
     {year: 2020, text: 'Mi aventura comenzó, empece a estudiar DAW.',},
     {year: 2021, text: 'Empece a trabajar en FarmaOffice.',},
@@ -19,3 +7,7 @@ export const TimeLineData = [
 ];
 
 export const presentYear = new Date().getFullYear();
+
+export const reformatString = (string) => (
+    string.replace(/-/g, ' ').replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase())
+);
