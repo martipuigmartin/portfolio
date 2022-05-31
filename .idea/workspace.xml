@@ -4,47 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c78de327-2935-4b3f-b650-d11da9eeea68" name="Changes" comment="portfolio done">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Portafolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/ball.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/wallet.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BackgrooundAnimation/BackgroundAnimation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/FooterStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Hero/HeroStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects/ProjectsStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Technologies/Technologies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Technologies/TechnologiesStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLineStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layout/LayoutStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/_document.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/api/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/GlobalComponents/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/GlobalComponents/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/globals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/themes/default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    <list default="true" id="c78de327-2935-4b3f-b650-d11da9eeea68" name="Changes" comment="update portfolio with toolbox">
+      <change afterPath="$PROJECT_DIR$/src/components/Hero/cv.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Portafolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/ball.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/wallet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/ProjectsStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/ProjectsStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/utils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +61,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Proyectos/Portafolio",
+    "last_opened_file_path": "D:/Proyectos/Portafolio/src/components/Hero",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -99,6 +75,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Proyectos\Portafolio\src\components\Hero" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Proyectos\Portafolio\src\components\Hero" />
       <recent name="D:\Proyectos\Portafolio\personal-portfolio\src\components" />
@@ -117,8 +96,23 @@
       <workItem from="1653940068953" duration="1693000" />
       <workItem from="1653941801932" duration="91000" />
       <workItem from="1653941918903" duration="9393000" />
-      <workItem from="1653987469555" duration="23630000" />
+      <workItem from="1653987469555" duration="27053000" />
     </task>
+    <task id="LOCAL-00001" summary="portfolio done">
+      <created>1654012154286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654012154286</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update portfolio with toolbox">
+      <created>1654012229210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654012229210</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="portfolio done" />
-    <option name="LAST_COMMIT_MESSAGE" value="portfolio done" />
+    <MESSAGE value="update portfolio with toolbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="update portfolio with toolbox" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

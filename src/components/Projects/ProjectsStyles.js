@@ -1,14 +1,5 @@
 import styled from 'styled-components';
 
-export const Img = styled.img`
-margin-top: 20px;
-margin-bottom: 10px;
-width:60%;
-height:60%;
-object-fit: cover;
-overflow: hidden;
-`;
-
 export const GridContainer = styled.section`
 margin-bottom: 50px;
 display: grid;
@@ -42,6 +33,7 @@ width: 100%;
 `;
 
 export const HeaderThree = styled.h3`
+margin-top: 20px;
 font-weight: 500;
 letter-spacing: 2px;
 color: #9cc9e3;
@@ -63,6 +55,11 @@ padding: 0 50px;
 color: #e4e6e7;
 font-style: 2rem;
 line-height: 24px;
+overflow: hidden;
+text-overflow: ellipsis;
+display: -webkit-box;
+-webkit-line-clamp: 7;
+-webkit-box-orient: vertical;
 text-align: justify;
 @media ${(props) => props.theme.breakpoints.sm} {
 padding:.3rem

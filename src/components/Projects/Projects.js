@@ -7,16 +7,15 @@ import {
     GridContainer,
     HeaderThree,
     Hr,
-    Img,
     Tag,
     TagList,
     TitleContent,
     UtilityList
 } from './ProjectsStyles';
 import {Section, SectionDivider, SectionTitle} from '../../styles/GlobalComponents';
-import {projectImage} from "../../constants/constants";
 
 import axios from "axios";
+import {reformatString} from "../../utils/utils";
 
 const Projects = () => {
     const [projects, setProjects] = useState([]);
@@ -38,9 +37,8 @@ const Projects = () => {
             <GridContainer>
                 {projects.map((project, index) => (
                     <BlogCard key={index}>
-                        <Img src={projectImage[index].image}/>
                         <TitleContent>
-                            <HeaderThree>{project.name}</HeaderThree>
+                            <HeaderThree>{reformatString(project.name)}</HeaderThree>
                             <Hr/>
                         </TitleContent>
                         <CardInfo>{project.description}</CardInfo>
@@ -48,12 +46,12 @@ const Projects = () => {
                         <div>
                             <TagList>
                                 {project.topics.map((topic, index) => (
-                                    <Tag key={index}>{topic}</Tag>
+                                    <Tag key={index}>{reformatString(topic)}</Tag>
                                 ))}
                             </TagList>
                         </div>
                         <UtilityList>
-                            <ExternalLinks href={project.html_url}>Ver código</ExternalLinks>
+                            <ExternalLinks href={project.html_url}>Ver proyecto</ExternalLinks>
                         </UtilityList>
                     </BlogCard>))
                 }
