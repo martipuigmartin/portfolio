@@ -1,11 +1,11 @@
 import React from 'react';
 
 import {
-    DiBootstrap,
+    DiBootstrap, DiFirebase,
     DiJava,
     DiJavascript1,
     DiJqueryLogo,
-    DiLaravel, DiMongodb, DiMysql,
+    DiLaravel, DiMysql,
     DiNodejsSmall,
     DiPhp,
     DiReact, DiSass,
@@ -76,7 +76,7 @@ const Technologies = () => (
                 <ListTitle>BBDD</ListTitle>
                 <ListItem>
                     <ListParagraph>
-                        <DiMongodb size={50}/>
+                        <DiFirebase size={50}/>
                     </ListParagraph>
                 </ListItem>
                 <ListItem>

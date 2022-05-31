@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c78de327-2935-4b3f-b650-d11da9eeea68" name="Changes" comment="various changes">
-      <change afterPath="$PROJECT_DIR$/.idea/Portafolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a043fd8e-f34d-4e4f-8fda-9fa42d6e6130" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Portafolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/cv.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,129 +22,40 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="ExportToHTMLSettings">
-    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Portafolio\exportToHTML" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="update" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitToolBoxStore">
-    <option name="recentBranches">
-      <RecentBranches>
-        <option name="branchesForRepo">
-          <list>
-            <RecentBranchesForRepo>
-              <option name="branches">
-                <list>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1654015641" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="update" />
-                    <option name="lastUsedInstant" value="1654015593" />
-                  </RecentBranch>
-                </list>
-              </option>
-              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
-            </RecentBranchesForRepo>
-          </list>
-        </option>
-      </RecentBranches>
-    </option>
-  </component>
-  <component name="JsBowerSettings">
-    <bower-package value="" />
-    <bower.json value="" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="29tcWcJPDZSZRhnp8OI7ljmkXfP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="29wh5GnPpr61Ysg4qGlbuf49TCi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Proyectos/Portafolio/src/components/Hero",
     "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "JavaScript.Libraries",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PhpStorm 2022.1.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "nodejs_package_manager_path": "yarn",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Proyectos\Portafolio\src\components\Hero" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Proyectos\Portafolio\src\components\Hero" />
-      <recent name="D:\Proyectos\Portafolio\personal-portfolio\src\components" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c78de327-2935-4b3f-b650-d11da9eeea68" name="Changes" comment="" />
-      <created>1653935864876</created>
+      <changelist id="a043fd8e-f34d-4e4f-8fda-9fa42d6e6130" name="Changes" comment="" />
+      <created>1654029880819</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653935864876</updated>
-      <workItem from="1653935865920" duration="1982000" />
-      <workItem from="1653938379270" duration="1304000" />
-      <workItem from="1653940068953" duration="1693000" />
-      <workItem from="1653941801932" duration="91000" />
-      <workItem from="1653941918903" duration="9393000" />
-      <workItem from="1653987469555" duration="27267000" />
-      <workItem from="1654019314529" duration="2843000" />
+      <updated>1654029880819</updated>
+      <workItem from="1654029884424" duration="1090000" />
     </task>
-    <task id="LOCAL-00001" summary="portfolio done">
-      <created>1654012154286</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1654012154286</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update portfolio with toolbox">
-      <created>1654012229210</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1654012229210</updated>
-    </task>
-    <task id="LOCAL-00003" summary="various changes">
-      <created>1654015551434</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1654015551434</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,15 +71,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="portfolio done" />
-    <MESSAGE value="update portfolio with toolbox" />
-    <MESSAGE value="various changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="various changes" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
