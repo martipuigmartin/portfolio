@@ -4,23 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c78de327-2935-4b3f-b650-d11da9eeea68" name="Changes" comment="update portfolio with toolbox">
-      <change afterPath="$PROJECT_DIR$/src/components/Hero/cv.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Portafolio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="c78de327-2935-4b3f-b650-d11da9eeea68" name="Changes" comment="various changes">
+      <change afterPath="$PROJECT_DIR$/.idea/Portafolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ball.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/wallet.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/ProjectsStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/ProjectsStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TimeLine/TimeLine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +31,37 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="update" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1654015641" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="update" />
+                    <option name="lastUsedInstant" value="1654015593" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="JsBowerSettings">
     <bower-package value="" />
@@ -58,8 +78,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/Proyectos/Portafolio/src/components/Hero",
     "node.js.detected.package.eslint": "true",
@@ -96,7 +118,8 @@
       <workItem from="1653940068953" duration="1693000" />
       <workItem from="1653941801932" duration="91000" />
       <workItem from="1653941918903" duration="9393000" />
-      <workItem from="1653987469555" duration="27053000" />
+      <workItem from="1653987469555" duration="27267000" />
+      <workItem from="1654019314529" duration="2843000" />
     </task>
     <task id="LOCAL-00001" summary="portfolio done">
       <created>1654012154286</created>
@@ -112,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654012229210</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="various changes">
+      <created>1654015551434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654015551434</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +162,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="portfolio done" />
     <MESSAGE value="update portfolio with toolbox" />
-    <option name="LAST_COMMIT_MESSAGE" value="update portfolio with toolbox" />
+    <MESSAGE value="various changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="various changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
