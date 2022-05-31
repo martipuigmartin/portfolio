@@ -56,7 +56,7 @@ const Timeline = () => {
                 </p>
                 <p>
                     Siempre me he considerado una persona muy curiosa, me gusta aprender cosas nuevas. Esto me ha
-                    permitido expandir mis conocimientos y me ha permitido explorar nuevas tecnologías.
+                    permitido expandir mis conocimientos y explorar nuevas tecnologías.
                 </p>
                 <p>
                     Soy una persona muy sociable, me gusta compartir mi conocimiento con otros, y que ellos hagan lo
