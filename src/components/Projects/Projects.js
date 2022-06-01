@@ -23,7 +23,6 @@ const Projects = () => {
     const getProjects = async () => {
         const response = await axios.get('https://api.github.com/users/martipuigmartin/repos');
         setProjects(response.data);
-        console.log(response.data);
     };
 
     useEffect(() => {
