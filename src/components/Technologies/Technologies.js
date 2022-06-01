@@ -1,7 +1,7 @@
 import React from 'react';
 
 import {
-    DiBootstrap, DiFirebase,
+    DiBootstrap, DiDocker, DiFirebase,
     DiJava,
     DiJavascript1,
     DiJqueryLogo,
@@ -12,6 +12,7 @@ import {
 } from 'react-icons/di';
 import {Section, SectionDivider, SectionText, SectionTitle} from '../../styles/GlobalComponents';
 import {List, ListContainer, ListItem, ListParagraph, ListTitle} from './TechnologiesStyles';
+import {AiFillGithub} from "react-icons/ai";
 
 const Technologies = () => (
     <Section id='tech'>
@@ -100,6 +101,24 @@ const Technologies = () => (
                 <ListItem>
                     <ListParagraph>
                         <DiSass size={50}/>
+                    </ListParagraph>
+                </ListItem>
+            </List>
+            <List>
+                <ListTitle>Otros</ListTitle>
+                <ListItem>
+                    <ListParagraph>
+                        <span>Vagrant</span>
+                    </ListParagraph>
+                </ListItem>
+                <ListItem>
+                    <ListParagraph>
+                        <AiFillGithub size={50}/>
+                    </ListParagraph>
+                </ListItem>
+                <ListItem>
+                    <ListParagraph>
+                        <DiDocker size={50}/>
                     </ListParagraph>
                 </ListItem>
             </List>
