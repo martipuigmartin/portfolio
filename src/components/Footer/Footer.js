@@ -25,7 +25,7 @@ const Footer = () => {
                 <CompanyContainer>
                     <Slogan>
                     <span>
-                        {`Marti Puig Martin - Desarrollador web - ${presentYear}`}
+                        {`Martí Puig Martin - Desarrollador web - ${presentYear}`}
                     </span>
                     </Slogan>
                 </CompanyContainer>
